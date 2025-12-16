@@ -33,7 +33,8 @@ Designed using KiCad and Fusion 360.
 
 ### 3D Assembly
 <img width="1518" height="966" alt="image" src="https://github.com/user-attachments/assets/262cc9a8-d6bd-48d6-9d67-e4a16fae2f9f" />
-
+<img width="1517" height="714" alt="image" src="https://github.com/user-attachments/assets/e8575da6-5a3c-4beb-b97a-43afffdd5e6b" />
+<img width="1516" height="838" alt="image" src="https://github.com/user-attachments/assets/e421ed46-1a9e-42ec-b11c-fe0123d742a9" />
 
 ### PCB Layout
 <img width="982" height="847" alt="image" src="https://github.com/user-attachments/assets/06166287-eb32-4ed2-ac6a-8830f578c204" />
